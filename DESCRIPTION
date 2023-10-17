@@ -19,6 +19,15 @@ VignetteBuilder: knitr
 Config/roxyglobals/filename: globals.R
 Config/roxyglobals/unique: TRUE
 Imports: 
-    magrittr
+    dplyr,
+    magrittr,
+    purrr,
+    readr,
+    stringr,
+    tidyr
 Depends: 
     R (>= 2.10)
+Suggests: 
+    knitr,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
