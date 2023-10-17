@@ -1,0 +1,6 @@
+url: https://xec-cm.github.io/microFunk/
+template:
+  bootstrap: 5
+  bootswatch: minty
+reference:
+- title: "Basic Functions"
