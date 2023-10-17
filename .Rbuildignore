@@ -1,10 +1,1 @@
-^microFunk\.Rproj$
-^\.Rproj\.user$
-^LICENSE\.md$
-^_pkgdown\.yml$
-^docs$
-^pkgdown$
-^codecov\.yml$
-^README\.Rmd$
-^Dockerfile$
-^\.github$
+^data-raw$
