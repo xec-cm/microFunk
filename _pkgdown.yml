@@ -4,3 +4,5 @@ template:
   bootswatch: minty
 reference:
 - title: "Basic Functions"
+  contents:
+  - read_pathabund
